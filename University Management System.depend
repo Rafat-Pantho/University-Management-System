@@ -1,0 +1,149 @@
+# depslib dependency file v1.0
+1738042507 source:c:\users\user\desktop\oop project\university management system\main.cpp
+	<iostream>
+	"People.h"
+	"Course.h"
+
+1738041322 c:\users\user\desktop\oop project\university management system\include\people.h
+	<string>
+	<iostream>
+
+1737999298 source:c:\users\user\desktop\oop project\university management system\src\people.cpp
+	"People.h"
+
+1738042542 c:\users\user\desktop\oop project\university management system\include\course.h
+	<string>
+	<iostream>
+
+1738082707 source:c:\users\sakli\desktop\university management system\src\course.cpp
+	"Course.h"
+
+1741467037 c:\users\sakli\desktop\university management system\include\course.h
+	"People.h"
+	<iostream>
+	<string>
+	<vector>
+
+1741465187 source:c:\users\sakli\desktop\university management system\src\people.cpp
+	"People.h"
+
+1741465087 c:\users\sakli\desktop\university management system\include\people.h
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1738155449 source:c:\users\sakli\desktop\university management system\main.cpp
+	"People.h"
+	"Course.h"
+	"Cafeteria.h"
+	"Department.h"
+
+1741462497 c:\users\sakli\desktop\university management system\include\cafeteria.h
+	<string>
+	<iostream>
+	<vector>
+	<string>
+	<iostream>
+	<vector>
+	<algorithm>
+
+1741462655 source:c:\users\sakli\desktop\university management system\src\cafeteria.cpp
+	"Cafeteria.h"
+	"Cafeteria.h"
+
+1738155540 source:c:\users\sakli\desktop\university management system\src\department.cpp
+	"Department.h"
+
+1738155448 c:\users\sakli\desktop\university management system\include\department.h
+	"People.h"
+	<vector>
+
+1742070553 source:c:\users\user\desktop\university management system\src\cafeteria.cpp
+	"Cafeteria.h"
+
+1741543468 c:\users\user\desktop\university management system\include\cafeteria.h
+	<string>
+	<iostream>
+	<vector>
+	<algorithm>
+
+1741933307 source:c:\users\user\desktop\university management system\src\course.cpp
+	"Course.h"
+	<fstream>
+	<sstream>
+	<map>
+
+1741933550 c:\users\user\desktop\university management system\include\course.h
+	"People.h"
+	<iostream>
+	<string>
+	<vector>
+
+1741958445 c:\users\user\desktop\university management system\include\people.h
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1741538471 source:c:\users\user\desktop\university management system\src\department.cpp
+	"Department.h"
+
+1741538471 c:\users\user\desktop\university management system\include\department.h
+	"People.h"
+	<vector>
+
+1742062597 source:c:\users\user\desktop\university management system\src\people.cpp
+	"People.h"
+
+1742070390 source:c:\users\user\desktop\university management system\main.cpp
+	"People.h"
+	"Course.h"
+	"Cafeteria.h"
+	"Department.h"
+	"Library.h"
+	"Helpers.h"
+	"LoginManager.h"
+	<bits/stdc++.h>
+	<conio.h>
+
+1742067738 c:\users\user\desktop\university management system\include\library.h
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<fstream>
+	<sstream>
+
+1742070881 source:c:\users\user\desktop\university management system\src\library.cpp
+	"Library.h"
+	<iomanip>
+
+1741876639 source:c:\users\user\desktop\university management system\src\helpers.cpp
+	"Cafeteria.h"
+	"Course.h"
+	"Department.h"
+	"Library.h"
+	"People.h"
+
+1742070139 source:c:\users\user\desktop\university management system\helpers.cpp
+	"Helpers.h"
+
+1742066403 c:\users\user\desktop\university management system\helpers.h
+	"Cafeteria.h"
+	"Course.h"
+	"Department.h"
+	"Library.h"
+	"People.h"
+	<map>
+	<iomanip>
+
+1742060837 c:\users\user\desktop\university management system\include\loginmanager.h
+	"../Helpers.h"
+	<iostream>
+
+1742070233 source:c:\users\user\desktop\university management system\src\loginmanager.cpp
+	"LoginManager.h"
+

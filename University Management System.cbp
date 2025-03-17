@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="University Management System" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/University Management System" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/University Management System" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Helpers.cpp" />
+		<Unit filename="Helpers.h" />
+		<Unit filename="include/Cafeteria.h" />
+		<Unit filename="include/Course.h" />
+		<Unit filename="include/Department.h" />
+		<Unit filename="include/Library.h" />
+		<Unit filename="include/LoginManager.h" />
+		<Unit filename="include/People.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Cafeteria.cpp" />
+		<Unit filename="src/Course.cpp" />
+		<Unit filename="src/Department.cpp" />
+		<Unit filename="src/Library.cpp" />
+		<Unit filename="src/LoginManager.cpp" />
+		<Unit filename="src/People.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
